@@ -7,3 +7,5 @@
 
     *.o
     *.exe
+
+.vscode
