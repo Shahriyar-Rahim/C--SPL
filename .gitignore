@@ -4,3 +4,6 @@
 /For Loop/.exe
 /While Loop/.o
 /While Loop/.exe
+
+    *.o
+    *.exe
