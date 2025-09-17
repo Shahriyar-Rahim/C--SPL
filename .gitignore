@@ -4,6 +4,8 @@
 /For Loop/.exe
 /While Loop/.o
 /While Loop/.exe
+/While Loop/05_BInary Conversion/.exe
+/While Loop/05_BInary Conversion/.o
 
     *.o
     *.exe
